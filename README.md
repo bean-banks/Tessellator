@@ -1,0 +1,1 @@
+I haven't included the LineComponent class because I'm not sure if it's necessary. I think I need to rework some of the line/edge functionality because it seems unnessesarily complex for what it is.
